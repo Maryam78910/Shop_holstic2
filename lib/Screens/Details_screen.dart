@@ -25,7 +25,7 @@ class DetailsPage extends StatelessWidget {
           SizedBox(height: 17,),
           Column(
             children: [
-
+//mmjjbhb
               Text(title),
 
               SizedBox(height: 17,),

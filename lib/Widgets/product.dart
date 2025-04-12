@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-//hbjbjb
+
 class TheProduct extends StatelessWidget {
   final String image;
   final String price;
@@ -9,8 +9,9 @@ class TheProduct extends StatelessWidget {
     required this.price,
     required this.title,
     required this.image,
+    //mmmmmmm
 
-//bjbjjbbbbj
+
   });
 
   @override
