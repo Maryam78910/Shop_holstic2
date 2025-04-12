@@ -10,7 +10,7 @@ class TheProduct extends StatelessWidget {
     required this.title,
     required this.image,
 
-
+//bjbjjbbbbj
   });
 
   @override
